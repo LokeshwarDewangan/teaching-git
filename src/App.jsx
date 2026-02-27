@@ -22,9 +22,18 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
+<<<<<<< Updated upstream
         <p>
          hellow here
         </p>
+=======
+      <h1>
+        this is my commit for safe merge
+      </h1>
+      <h1>
+        this is my commit for safe merge
+      </h1>
+>>>>>>> Stashed changes
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more

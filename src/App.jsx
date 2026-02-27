@@ -21,10 +21,9 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>
-          Edit <code>src/App.jsx</code> Pratik
-         hello world lokeshwar
-        </p>
+      <h1>
+        this is my commit for safe merge
+      </h1>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
